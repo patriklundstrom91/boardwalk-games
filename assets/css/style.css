@@ -50,6 +50,14 @@ h2 {
 }
 
 
+/*Game library cards*/
+
+#new-games .card,
+#fav-games .card {
+    border: none;
+}
+
+
 /*Navbar*/
 
 #navbar {
