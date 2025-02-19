@@ -78,6 +78,16 @@ h2 {
     padding: 7px 25px;
 }
 
+#student-info {
+    border: 2px solid var(--highlight-color);
+    background-color: var(--highlight-color);
+    color: white;
+    width: 300px;
+    border-radius: 0;
+    padding: 5px 7px;
+    margin-bottom: 25px;
+}
+
 
 /*Game library cards*/
 
